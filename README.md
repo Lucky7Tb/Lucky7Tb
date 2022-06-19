@@ -29,10 +29,10 @@ Interested in web programming and also a little bit interest in android progammi
 
 ### **Performance**
 
-<a href="https://github.com/lucky7tb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky7tb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lucky github stats" /></a>
+<a href="https://github.com/lucky7tb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky7tb&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true" alt="Lucky github stats" /></a>
 
 ### **Languages**
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky7Tb&layout=compact&theme=default"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky7Tb&layout=compact&theme=blueberry"/>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
