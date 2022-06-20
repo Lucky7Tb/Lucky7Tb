@@ -43,10 +43,6 @@ Interested in web programming and also a little bit interest in android progammi
 
 ### **Connect with me**
 
-<a href="https://instagram.com/luckytribhakti">
-  <img align="left" width="30px" alt="Lucky | Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
-</a>
-
 <a href="https://linkedin.com/in/luckytribhakti/">
   <img align="left" width="30px" alt="Lucky | LinkedIn" src="./assets/linkedin-icon.svg" />
 </a>
