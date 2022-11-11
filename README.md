@@ -4,7 +4,7 @@
 ### **About me**
 - 💼 I’m currently working at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
 
-- 🌱 I’m currently learning **Nest Js, React Native**
+- 🌱 I’m always want learning something new
 
 - 👨‍🎓 I’m student at [Telkom University](https://telkomuniversity.ac.id/)
 
