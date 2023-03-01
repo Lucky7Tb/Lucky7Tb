@@ -4,11 +4,11 @@
 ### **About me**
 - 💼 I’m currently working at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
 
-- 📝 Also currently internship at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
+- 📝 Also work at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
  
-- 🌱 I’m always want learning something new
+- ✍️ I’m always want learning something new
 
-- 👨‍🎓 I’m student at [Telkom University](https://telkomuniversity.ac.id/)
+- 👨‍🎓 I’m diploma student at [Telkom University](https://telkomuniversity.ac.id/)
 
 - 👨‍💻 All of my projects and experiance are available at [here](https://lucky7tb.github.io)
 
