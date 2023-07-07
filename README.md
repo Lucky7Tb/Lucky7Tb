@@ -6,9 +6,9 @@
 
 - 📝 Also work at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
  
-- ✍️ I’m always want learning something new
+- ✍️ Always want learning something new
 
-- 👨‍🎓 I’m diploma student at [Telkom University](https://telkomuniversity.ac.id/)
+- 👨‍🎓 Diploma student at [Telkom University](https://telkomuniversity.ac.id/)
 
 - 👨‍💻 All of my projects and experiance are available at [here](https://lucky7tb.github.io)
 
