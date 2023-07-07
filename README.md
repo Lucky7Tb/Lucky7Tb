@@ -2,7 +2,7 @@
 <h3 align="center">A student who still learning about programming espesially in web development</h3>
 
 ### **About me**
-- 💼 I’m currently working at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
+- 💼 Currently working at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
 
 - 📝 Also work at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
  
