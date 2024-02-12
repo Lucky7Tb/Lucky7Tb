@@ -8,7 +8,7 @@
  
 - ✍️ Always want learning something new
 
-- 👨‍🎓 Diploma student at [Telkom University](https://telkomuniversity.ac.id/)
+- 👨‍🎓 Bachelor student at [Telkom University](https://telkomuniversity.ac.id/)
 
 - 👨‍💻 All of my projects and experiance are available at [here](https://lucky7tb.github.io)
 
