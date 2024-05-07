@@ -1,67 +1,32 @@
 <h1 align="center">Hi 👋, I'm Lucky Tri Bhakti</h1>
-<h3 align="center">A student who still learning about programming espesially in web development</h3>
+<h3 align="center">A person who still learning about programming espesially in web development</h3>
 
 ### **About me**
 - 💼 Currently working at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
-
-- 📝 Also work at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
- 
-- ✍️ Always want learning something new
-
+- 📝 Freelance at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
 - 👨‍🎓 Bachelor student at [Telkom University](https://telkomuniversity.ac.id/)
-
 - 👨‍💻 All of my projects and experiance are available at [here](https://lucky7tb.github.io)
-
+- ✍️ Always want learning something new
+- 🌱 Currently learning GO and Deno
 - ⚡ Fun fact **Have a love and hate relationship with programming** 🥲
 
-### **Languages And Tools I Use**
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="./assets/materializecss.svg" alt="materialize" width="40" height="40"/> 
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> 
-   </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-</p>
+### **Technologies and tools i use**
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+  <img width="50" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Codeigniter" title="Codeigniter"/>
+	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
+	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+	<img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/265605607-dc393bd9-90b8-40d6-b396-dd9e547890c9.png" alt="Materialize" title="Materialize"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png" alt="elementary OS" title="elementary OS"/>
+</div>
