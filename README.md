@@ -3,8 +3,6 @@
 
 ### **About me**
 - 🔍️ Focusing on backend development
-- 💼 Currently working at [PT Folka Indonesia Teknologi](https://folkatech.com/) as backend developer
-- 📝 Freelance at [Pusat Teknologi Informasi](https://it.telkomuniversity.ac.id/) as backend developer
 - 👨‍🎓 Bachelor student at [Telkom University](https://telkomuniversity.ac.id/)
 - 👨‍💻 All of my projects and experiance are available at [here](https://lucky7tb.github.io)
 - ✍️ Always want learning something new
